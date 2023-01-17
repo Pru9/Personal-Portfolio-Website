@@ -2,7 +2,7 @@
 (function($){
   "use strict";
   var WEA = {};
-  var plugin_track = 'assets2/vendor/index2.html';
+  var plugin_track = 'assets/vendor/index.html';
   $.fn.exists = function () {
         return this.length > 0;
     };
